@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "origem": "Previdência Social",
+    "destino": "Saúde",
+    "instrumento": "RP6",
+    "autor": "Emendas individuais",
+    "cancelado": 920000000,
+    "acrescido": 900000000,
+    "risco": "Alto"
+  },
+  {
+    "id": 2,
+    "origem": "Infraestrutura urbana",
+    "destino": "Desenvolvimento regional",
+    "instrumento": "RP7",
+    "autor": "Bancada estadual",
+    "cancelado": 780000000,
+    "acrescido": 760000000,
+    "risco": "Médio"
+  },
+  {
+    "id": 3,
+    "origem": "Reserva de contingência",
+    "destino": "Saúde",
+    "instrumento": "RP8",
+    "autor": "Comissão",
+    "cancelado": 640000000,
+    "acrescido": 620000000,
+    "risco": "Alto"
+  },
+  {
+    "id": 4,
+    "origem": "Educação básica",
+    "destino": "Educação superior",
+    "instrumento": "RP6",
+    "autor": "Emendas individuais",
+    "cancelado": 410000000,
+    "acrescido": 400000000,
+    "risco": "Médio"
+  },
+  {
+    "id": 5,
+    "origem": "Operações especiais",
+    "destino": "Agricultura",
+    "instrumento": "RP7",
+    "autor": "Bancada estadual",
+    "cancelado": 360000000,
+    "acrescido": 350000000,
+    "risco": "Baixo"
+  }
+]
